@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollBar?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="636.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.Controller">
+   <children>
+      <VBox prefHeight="400.0" prefWidth="400.0">
+         <children>
+            <HBox layoutX="10.0" layoutY="10.0" prefHeight="80.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="btn" contentDisplay="TOP" graphicTextGap="0.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn1" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn2" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn3" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn4" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="90.0" prefHeight="80.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="btn5" contentDisplay="TOP" graphicTextGap="0.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn6" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn7" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn8" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn9" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox prefHeight="80.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="btn10" contentDisplay="TOP" graphicTextGap="0.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn11" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn12" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn13" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn14" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="170.0" prefHeight="80.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="btn15" contentDisplay="TOP" graphicTextGap="0.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn16" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn17" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn18" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn19" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="250.0" prefHeight="80.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="btn20" contentDisplay="TOP" graphicTextGap="0.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn21" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn22" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn23" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn24" contentDisplay="TOP" graphicTextGap="0.0" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#btnPressed" prefHeight="80.0" prefWidth="80.0" textAlignment="JUSTIFY">
+                     <font>
+                        <Font name="Impact" size="41.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <HBox prefHeight="400.0" prefWidth="240.0">
+         <children>
+            <ScrollBar fx:id="vscrollPercentage" onMouseClicked="#msClick" onMouseDragReleased="#dragRelease" onMouseReleased="#released" orientation="VERTICAL" prefHeight="409.0" prefWidth="36.0" />
+            <VBox alignment="TOP_CENTER" prefHeight="400.0" prefWidth="210.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="146.0" prefWidth="206.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="63.0" prefWidth="257.0" text="Click on a box, if it turns red you lose, 3 boxes turned green in a row makes a win" wrapText="true" />
+                        <Label prefHeight="99.0" prefWidth="224.0" text="Use the slider to change the percentage of a box turning green when clicked on. Then click &quot;Change Percentage&quot; to change." wrapText="true" />
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="38.0" prefWidth="165.0">
+                     <children>
+                        <Label fx:id="lblOutcome">
+                           <font>
+                              <Font size="24.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="btnPlay" mnemonicParsing="false" onAction="#playAgain" text="Play Again" />
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="98.0" prefWidth="206.0" spacing="5.0">
+                     <children>
+                        <Label prefHeight="10.0" prefWidth="162.0" text="Selected Percentage">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblSelectedPercentage" text="100%">
+                           <font>
+                              <Font size="21.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="btnChange" mnemonicParsing="false" onAction="#btnChangePercent" text="Change Percentage" />
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="96.0" prefWidth="165.0" style="-fx-background-color: Cyan;">
+                     <children>
+                        <Label prefHeight="37.0" prefWidth="187.0" style="-fx-text-fill: Black;" text="Percentage of  box being right" textAlignment="CENTER" wrapText="true">
+                           <font>
+                              <Font size="13.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="lblCurrentPercentage" alignment="CENTER" contentDisplay="CENTER" prefHeight="53.0" prefWidth="117.0" style="-fx-text-fill: Black;" text="50%">
+                           <font>
+                              <Font size="36.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</HBox>
