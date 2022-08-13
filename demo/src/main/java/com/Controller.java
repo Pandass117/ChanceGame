@@ -156,7 +156,7 @@ public class Controller {
     }
 
 
-    //Requires:
+    //Requires: play again button to be pressed
     //Modifies: this
     //Effects: resets and enables all buttons, disables play again buttom
     //enables change percent button, resets most text
@@ -206,7 +206,7 @@ public class Controller {
         getScroll();
     }
 
-    //Requires:
+    //Requires: change percent button to be pressed
     //Modifies: this
     //Effects: set the current percentage of a button turning green to the selected percentage
     public void btnChangePercent(ActionEvent actionEvent) {
